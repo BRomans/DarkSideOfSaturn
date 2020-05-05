@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Neon/Scenes/TutorialScene.unity
+  - enabled: 0
+    path: Assets/NeonSphere - Starter Pack/Scenes/NeonScene.unity
     guid: a4c251521ce2ec2499d5db4fd55c1c9f
+  - enabled: 1
+    path: Assets/Basic.unity
+    guid: 268e49eb1de2b4cf886468d5df9eca05
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6765ebe5fb6c0bb43ae3077a27ad8713,
+      type: 2}
